@@ -20,7 +20,7 @@ manifest:
 
   remotes:
     - name: upstream
-      url-base: git@github.com:konovaLabs/zephyr.git
+      url-base: git@github.com:konovaLabs
     - name: babblesim
       url-base: https://github.com/BabbleSim
 
