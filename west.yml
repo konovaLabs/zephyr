@@ -16,10 +16,10 @@
 
 manifest:
   defaults:
-    remote: upstream
+    remote: konovaLabs
 
   remotes:
-    - name: upstream
+    - name: konovaLabs
       url-base: git@github.com:konovaLabs
     - name: babblesim
       url-base: https://github.com/BabbleSim
